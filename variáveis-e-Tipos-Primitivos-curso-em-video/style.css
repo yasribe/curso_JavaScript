@@ -14,3 +14,12 @@ body{
     line-height: 200px;
     text-align: center;
 }
+
+input{
+    font: normal 18pt arial;
+    width: 100px;
+}
+
+#res{
+    margin-top: 20px;
+}
