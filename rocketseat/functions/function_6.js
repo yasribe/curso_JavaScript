@@ -10,7 +10,7 @@ function() constructor
 function Person (name){
     this.name = name
     this.walk = function(){
-        return this.name + "está andando"
+        return this.name + " está andando"
     }
 }
 //estanciar um novo objeto
